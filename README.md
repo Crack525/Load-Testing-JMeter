@@ -1,1 +1,1 @@
-This is a sample project to integrate cucumber UI tests with appium + java
+This is a sample project to do load testing with jMeter
